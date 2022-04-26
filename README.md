@@ -1,2 +1,2 @@
 # Turtle-Crossing-The-Road-Game
-Iteration of the cross road game using Python Turtle Graphics
+Iteration of the crossy road game using Python Turtle Graphics.
